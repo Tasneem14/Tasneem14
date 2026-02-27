@@ -6,13 +6,7 @@ I am an **AI Engineer** with hands-on experience in machine learning, deep learn
 
 ---
 
-### Education
 
-**Bachelor of Computers and Artificial Intelligence | AI Major**
-Helwan University, Egypt | 2021 - 2025
-GPA: 3.56/4.0 (Excellent)
-
----
 
 ### Tech Stack
 
@@ -27,13 +21,6 @@ GPA: 3.56/4.0 (Excellent)
 ---
 
 
-
-### GitHub Stats
-
-![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem14&layout=compact&theme=radical)
-
----
 
 ### Connect with Me
 
